@@ -1,0 +1,3 @@
+msaa算法实现在rasterize_triangle_with_sample函数中
+
+在rasterizer中添加了几个函数，已注释

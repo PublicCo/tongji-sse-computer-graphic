@@ -1,0 +1,7 @@
+﻿  glad.c
+  light.cpp
+  main.cpp
+  model.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  opengl.vcxproj -> C:\Users\leon\Desktop\ComputerGraphic\hw3\opengl\x64\Debug\opengl.exe
